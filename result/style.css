@@ -1,0 +1,6 @@
+body{
+    background-color: cyan;
+}
+.edit:hover{
+    border-color: cadetblue;
+}
